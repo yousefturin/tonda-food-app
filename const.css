@@ -1,0 +1,36 @@
+:root{
+    --bg--tertiary: #383838;
+    --bg--quaternary: rgba(158, 158, 158, 0.121);
+    --bd--quinary: rgba(255, 255, 255, 0.067);
+    --color-main--primary: #79b50f;
+    --color-main--secondary: #679c0d;
+    --color-main--tertiary: #78b50f8b;
+    --color-main--tertiary-outline: #e6ffba5c;
+  
+    --text--primary: #ffffff;
+    --text--sub-primary: #eeeeee;
+    --text--secondary: #c9c9c9;
+    --text--tertiary: #e8e8e8;
+    --text--quaternary: #8d8c8c;
+    --text--quinary: #bebdbd;
+    --text-footer: #8a8a8a;
+    --text-footer-bottom: #c8c8c8;
+  
+    --btn--primary: #f0f6fc;
+    --btn-secondary: #4a4a4a;
+    --btn-primary-hover: #e3f9df;
+  
+    --cards-shadow: rgba(0, 0, 0, 0.5);
+    --transition-slow: all 0.9s ease;
+    --transition-normal: all 0.6s ease;
+    --transition-fast: all 0.4s ease;
+    --menu-primary-color: #05050561;
+    --menu-secondary-color: #ffffff1c;
+  
+    --form-label-color: #686868;
+    --notification-time-color: #388e3c;
+    --faq-answer-color: #555;
+    --blog-post-primary: #f5f5f5;
+  
+    --blog-time-reading-color: #888;
+}
