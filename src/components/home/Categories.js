@@ -32,7 +32,7 @@ const Categories = () => {
                         height={normalizedSize(60)} />
 
                     <Text style={{
-                        fontSize: normalizedSize(18),
+                        fontSize: normalizedSize(16),
                         fontWeight: "600"
                     }}>
                         {item.text}</Text>

@@ -18,8 +18,14 @@ const Home = () => {
             </View>
 
             <ScrollView
-                showsVerticalScrollIndicator={false}>
+                showsVerticalScrollIndicator={false}
+                style={{ marginBottom: normalizedSize(160) }}>
                 <Categories />
+                <RestaurantItem />
+                <RestaurantItem />
+                <RestaurantItem />
+                <RestaurantItem />
+                <RestaurantItem />
                 <RestaurantItem />
             </ScrollView>
         </SafeAreaView>
